@@ -8,3 +8,4 @@ NUGET
       haxx.curl (>= 7.60.0)
     debricked.seconds (dev-master)
       debricked.seconds (>= dev-master)
+
